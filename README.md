@@ -1,1 +1,1 @@
-# Distributed-Load-Testing-System
+This project aims to provide a scalable and distributed load testing system designed to simulate heavy workloads on applications, services, or APIs. Leveraging the power of Apache Kafka for seamless communication between distributed components, our system ensures efficient coordination and synchronization in the load testing environment.
